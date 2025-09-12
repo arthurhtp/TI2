@@ -9,3 +9,5 @@
 **Disciplina:** TI2
 
 **Descrição:** Integração PostgreSQL - Maven - Spark, CRUD com Front e Back
+
+**Instruções** Rode o arquivo Principal.java e abra o index.html ou rode o localhost/3333 no navegador
