@@ -10,7 +10,7 @@
 
 **Descrição:** Implementação na Azure do Banco pgSQL em Nuvem e IA como serviço
 
-**Instruções** Rode o arquivo Principal.java e abra o index.html ou rode o localhost/3333 no navegador
+**Instruções** Rode o arquivo SentimentoIA.java na pasta ServicoIA
 
 ---
 
